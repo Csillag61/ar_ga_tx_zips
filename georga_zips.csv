@@ -1,0 +1,663 @@
+zip,population,city,county,state
+30044,93987,Lawrenceville,Gwinnett,GA
+30043,88276,Lawrenceville,Gwinnett,GA
+30024,80598,Suwanee,Gwinnett,GA
+30349,75647,Atlanta,Fulton,GA
+30040,72858,Cumming,Forsyth,GA
+30041,71750,Cumming,Forsyth,GA
+30127,71709,Powder Springs,Cobb,GA
+30281,70098,Stockbridge,Henry,GA
+30052,69518,Loganville,Gwinnett,GA
+30022,69135,Alpharetta,Fulton,GA
+30047,68700,Lilburn,Gwinnett,GA
+30096,68570,Duluth,Gwinnett,GA
+30135,67853,Douglasville,Douglas,GA
+30004,66538,Alpharetta,Fulton,GA
+30331,65996,Atlanta,Fulton,GA
+30062,63906,Marietta,Cobb,GA
+30188,63869,Woodstock,Cherokee,GA
+30058,61247,Lithonia,Dekalb,GA
+30263,60769,Newnan,Coweta,GA
+30906,60200,Augusta,Richmond,GA
+30083,59798,Stone Mountain,Dekalb,GA
+30144,59085,Kennesaw,Cobb,GA
+30101,58844,Acworth,Cobb,GA
+30080,58806,Smyrna,Cobb,GA
+31907,58615,Columbus,Muscogee,GA
+31419,58483,Savannah,Chatham,GA
+30066,57953,Marietta,Cobb,GA
+30253,57889,Mcdonough,Henry,GA
+30318,57136,Atlanta,Fulton,GA
+31088,57063,Warner Robins,Houston,GA
+30114,57013,Canton,Cherokee,GA
+30016,56934,Covington,Newton,GA
+30075,55945,Roswell,Fulton,GA
+30518,54832,Buford,Gwinnett,GA
+30093,53896,Norcross,Gwinnett,GA
+30236,53224,Jonesboro,Clayton,GA
+30721,52658,Dalton,Whitfield,GA
+30907,51428,Augusta,Richmond,GA
+30809,50288,Evans,Columbia,GA
+30519,49986,Buford,Gwinnett,GA
+30064,49849,Marietta,Cobb,GA
+30157,48446,Dallas,Paulding,GA
+30019,48443,Dacula,Gwinnett,GA
+30458,47890,Statesboro,Bulloch,GA
+30132,47378,Dallas,Paulding,GA
+30032,47267,Decatur,Dekalb,GA
+30252,47005,Mcdonough,Henry,GA
+30076,46739,Roswell,Fulton,GA
+30039,46640,Snellville,Gwinnett,GA
+30067,46482,Marietta,Cobb,GA
+30045,46088,Lawrenceville,Gwinnett,GA
+30034,45968,Decatur,Dekalb,GA
+30097,45894,Duluth,Gwinnett,GA
+30680,45852,Winder,Barrow,GA
+30606,45698,Athens,Clarke,GA
+30813,45485,Grovetown,Columbia,GA
+30319,45135,Atlanta,Dekalb,GA
+30115,44811,Canton,Cherokee,GA
+30152,44115,Kennesaw,Cobb,GA
+30506,43974,Gainesville,Hall,GA
+30228,43753,Hampton,Henry,GA
+30736,43639,Ringgold,Catoosa,GA
+30134,43504,Douglasville,Douglas,GA
+30126,42794,Mableton,Cobb,GA
+31061,42625,Milledgeville,Baldwin,GA
+30102,42232,Acworth,Cobb,GA
+30701,42050,Calhoun,Gordon,GA
+30815,41590,Hephzibah,Richmond,GA
+30605,41388,Athens,Clarke,GA
+31313,41378,Hinesville,Liberty,GA
+30294,41096,Ellenwood,Clayton,GA
+30909,40595,Augusta,Richmond,GA
+30165,40349,Rome,Floyd,GA
+30005,40213,Alpharetta,Fulton,GA
+30060,40055,Marietta,Cobb,GA
+30120,40008,Cartersville,Bartow,GA
+30038,39543,Lithonia,Dekalb,GA
+30189,39522,Woodstock,Cherokee,GA
+30014,39352,Covington,Newton,GA
+30238,39310,Jonesboro,Clayton,GA
+30350,38785,Atlanta,Dekalb,GA
+30328,38685,Atlanta,Fulton,GA
+31909,38486,Columbus,Muscogee,GA
+30078,38472,Snellville,Gwinnett,GA
+30087,38304,Stone Mountain,Dekalb,GA
+30180,38203,Villa Rica,Carroll,GA
+30213,37948,Fairburn,Fulton,GA
+31405,37929,Savannah,Chatham,GA
+30046,37919,Lawrenceville,Gwinnett,GA
+30084,37354,Tucker,Dekalb,GA
+30092,37025,Norcross,Gwinnett,GA
+30215,36953,Fayetteville,Fayette,GA
+30223,36797,Griffin,Spalding,GA
+30269,36578,Peachtree City,Fayette,GA
+30542,36450,Flowery Branch,Hall,GA
+30315,36296,Atlanta,Fulton,GA
+31602,35916,Valdosta,Lowndes,GA
+30338,35680,Atlanta,Fulton,GA
+30311,35523,Atlanta,Fulton,GA
+30161,35344,Rome,Floyd,GA
+30117,35097,Carrollton,Carroll,GA
+31406,35073,Savannah,Chatham,GA
+30008,34709,Marietta,Cobb,GA
+30265,34596,Newnan,Coweta,GA
+30274,34426,Riverdale,Clayton,GA
+30705,34072,Chatsworth,Murray,GA
+30316,33832,Atlanta,Fulton,GA
+31210,33647,Macon,Bibb,GA
+31404,33597,Savannah,Chatham,GA
+30068,32798,Marietta,Cobb,GA
+30033,32782,Decatur,Dekalb,GA
+30501,32652,Gainesville,Hall,GA
+30094,32359,Conyers,Rockdale,GA
+31705,32290,Albany,Dougherty,GA
+30344,32155,Atlanta,Fulton,GA
+30341,32134,Atlanta,Dekalb,GA
+31904,32087,Columbus,Muscogee,GA
+30030,31856,Decatur,Dekalb,GA
+30342,31828,Atlanta,Fulton,GA
+31601,31652,Valdosta,Lowndes,GA
+30012,31427,Conyers,Rockdale,GA
+30507,31290,Gainesville,Hall,GA
+30240,31223,Lagrange,Troup,GA
+31204,31055,Macon,Bibb,GA
+30534,30848,Dawsonville,Dawson,GA
+31525,30780,Brunswick,Glynn,GA
+30088,30760,Stone Mountain,Dekalb,GA
+30028,30609,Cumming,Forsyth,GA
+30214,30232,Fayetteville,Fayette,GA
+30340,29069,Atlanta,Dekalb,GA
+30324,28654,Atlanta,Fulton,GA
+30310,28597,Atlanta,Fulton,GA
+30741,28592,Rossville,Walker,GA
+30297,28503,Forest Park,Clayton,GA
+30549,28195,Jefferson,Jackson,GA
+30720,28067,Dalton,Whitfield,GA
+31794,27918,Tifton,Tift,GA
+30248,27747,Locust Grove,Henry,GA
+30533,27738,Dahlonega,Lumpkin,GA
+30122,27580,Lithia Springs,Douglas,GA
+30296,27579,Riverdale,Clayton,GA
+31021,27503,Dublin,Laurens,GA
+30504,27242,Gainesville,Hall,GA
+30260,27183,Morrow,Clayton,GA
+31324,27155,Richmond Hill,Bryan,GA
+30224,27139,Griffin,Spalding,GA
+30904,27136,Augusta,Richmond,GA
+30329,26980,Atlanta,Dekalb,GA
+30141,26494,Hiram,Paulding,GA
+30082,26442,Smyrna,Cobb,GA
+31322,26119,Pooler,Chatham,GA
+30655,25876,Monroe,Walton,GA
+30071,25865,Norcross,Gwinnett,GA
+30309,25852,Atlanta,Fulton,GA
+30345,25777,Atlanta,Dekalb,GA
+30314,25752,Atlanta,Fulton,GA
+31093,25488,Warner Robins,Houston,GA
+30339,25318,Atlanta,Fulton,GA
+30121,25309,Cartersville,Bartow,GA
+30013,25218,Conyers,Rockdale,GA
+30528,25149,Cleveland,White,GA
+30305,25139,Atlanta,Fulton,GA
+31206,24983,Macon,Bibb,GA
+30168,24936,Austell,Cobb,GA
+30306,24915,Atlanta,Fulton,GA
+31410,24626,Savannah,Chatham,GA
+30233,24398,Jackson,Butts,GA
+31763,24307,Leesburg,Lee,GA
+30021,24138,Clarkston,Dekalb,GA
+31605,23955,Valdosta,Lowndes,GA
+30312,23921,Atlanta,Fulton,GA
+30116,23886,Carrollton,Carroll,GA
+30125,23793,Cedartown,Polk,GA
+30017,23788,Grayson,Gwinnett,GA
+31707,23645,Albany,Dougherty,GA
+30241,23449,Lagrange,Troup,GA
+30601,23390,Athens,Clarke,GA
+30277,23365,Sharpsburg,Coweta,GA
+30035,23087,Decatur,Dekalb,GA
+30327,23059,Atlanta,Fulton,GA
+31520,22783,Brunswick,Glynn,GA
+30143,22726,Jasper,Pickens,GA
+30512,22646,Blairsville,Union,GA
+30291,22636,Union City,Fulton,GA
+31792,22458,Thomasville,Thomas,GA
+30106,22433,Austell,Cobb,GA
+30286,22270,Thomaston,Upson,GA
+30577,22261,Toccoa,Stephens,GA
+31558,22237,Saint Marys,Camden,GA
+31768,22212,Moultrie,Colquitt,GA
+31548,21858,Kingsland,Camden,GA
+31312,21762,Guyton,Effingham,GA
+31326,21722,Rincon,Effingham,GA
+31015,21224,Cordele,Crisp,GA
+31024,20792,Eatonton,Putnam,GA
+30308,20438,Atlanta,Fulton,GA
+30307,20337,Atlanta,Fulton,GA
+31069,20207,Perry,Houston,GA
+30728,20183,La Fayette,Walker,GA
+31906,20114,Columbus,Muscogee,GA
+31503,20043,Waycross,Ware,GA
+30548,19828,Hoschton,Jackson,GA
+31008,19824,Byron,Peach,GA
+30540,19732,Ellijay,Gilmer,GA
+31401,19580,Savannah,Chatham,GA
+31701,18886,Albany,Dougherty,GA
+30677,18770,Watkinsville,Oconee,GA
+30009,18625,Alpharetta,Fulton,GA
+31005,18336,Bonaire,Houston,GA
+30276,18128,Senoia,Coweta,GA
+31533,18050,Douglas,Coffee,GA
+31750,17959,Fitzgerald,Ben Hill,GA
+30153,17906,Rockmart,Polk,GA
+31905,17867,Fort Benning,Muscogee,GA
+31903,17796,Columbus,Muscogee,GA
+31030,17691,Fort Valley,Peach,GA
+31216,17267,Macon,Bibb,GA
+30011,17265,Auburn,Barrow,GA
+30707,17145,Chickamauga,Walker,GA
+31217,17044,Macon,Bibb,GA
+30474,16892,Vidalia,Toombs,GA
+30824,16866,Thomson,Mcduffie,GA
+31522,16777,Saint Simons Island,Glynn,GA
+30179,16763,Temple,Carroll,GA
+30354,16660,Atlanta,Fulton,GA
+30656,16582,Monroe,Walton,GA
+31029,16467,Forsyth,Monroe,GA
+30901,16394,Augusta,Richmond,GA
+31501,16265,Waycross,Ware,GA
+30360,16099,Atlanta,Dekalb,GA
+30517,16070,Braselton,Jackson,GA
+31513,15950,Baxley,Appling,GA
+31545,15949,Jesup,Wayne,GA
+30747,15807,Summerville,Chattooga,GA
+31047,15750,Kathleen,Houston,GA
+30273,15720,Rex,Clayton,GA
+31709,15509,Americus,Sumter,GA
+30643,15487,Hartwell,Hart,GA
+31032,15324,Gray,Jones,GA
+30103,15246,Adairsville,Bartow,GA
+31220,15230,Macon,Bibb,GA
+30635,15200,Elberton,Elbert,GA
+31516,15052,Blackshear,Pierce,GA
+30461,15034,Statesboro,Bulloch,GA
+31539,14796,Hazlehurst,Jeff Davis,GA
+31211,14602,Macon,Bibb,GA
+30110,14232,Bremen,Haralson,GA
+30107,14083,Ball Ground,Cherokee,GA
+31023,14079,Eastman,Dodge,GA
+30620,14027,Bethlehem,Barrow,GA
+31407,14010,Savannah,Chatham,GA
+30317,13959,Atlanta,Fulton,GA
+30204,13735,Barnesville,Lamar,GA
+31316,13732,Ludowici,Long,GA
+30401,13708,Swainsboro,Emanuel,GA
+30830,13544,Waynesboro,Burke,GA
+31523,13450,Brunswick,Glynn,GA
+31632,13408,Hahira,Lowndes,GA
+31014,13404,Cochran,Bleckley,GA
+30337,13309,Atlanta,Fulton,GA
+30642,13104,Greensboro,Greene,GA
+30622,13073,Bogart,Oconee,GA
+30427,12771,Glennville,Tattnall,GA
+31415,12706,Savannah,Chatham,GA
+30513,12504,Blue Ridge,Fannin,GA
+31036,12236,Hawkinsville,Pulaski,GA
+30523,12099,Clarkesville,Habersham,GA
+30529,12098,Commerce,Jackson,GA
+30436,12039,Lyons,Toombs,GA
+30650,11971,Madison,Morgan,GA
+30054,11867,Oxford,Newton,GA
+31820,11832,Midland,Muscogee,GA
+30467,11764,Sylvania,Screven,GA
+30313,11761,Atlanta,Fulton,GA
+31791,11485,Sylvester,Worth,GA
+31620,11272,Adel,Cook,GA
+31535,11257,Douglas,Coffee,GA
+31757,10977,Thomasville,Thomas,GA
+31329,10831,Springfield,Effingham,GA
+30531,10809,Cornelia,Habersham,GA
+30439,10795,Metter,Candler,GA
+30025,10689,Social Circle,Walton,GA
+30453,10627,Reidsville,Tattnall,GA
+31639,10606,Nashville,Berrien,GA
+31636,10585,Lake Park,Lowndes,GA
+31537,10559,Folkston,Charlton,GA
+31408,10554,Savannah,Chatham,GA
+30417,10487,Claxton,Evans,GA
+30607,10475,Athens,Clarke,GA
+31779,10338,Pelham,Mitchell,GA
+30288,10181,Conley,Dekalb,GA
+30755,10108,Tunnel Hill,Whitfield,GA
+30268,10099,Palmetto,Fulton,GA
+31082,10061,Sandersville,Washington,GA
+30230,9727,Hogansville,Troup,GA
+31510,9658,Alma,Bacon,GA
+30666,9622,Statham,Barrow,GA
+30217,9595,Franklin,Heard,GA
+31064,9469,Monticello,Jasper,GA
+30814,9342,Harlem,Columbia,GA
+31027,9264,Dublin,Laurens,GA
+30510,9136,Alto,Habersham,GA
+31808,9077,Fortson,Muscogee,GA
+31793,9029,Tifton,Tift,GA
+31411,8993,Savannah,Chatham,GA
+31052,8837,Lizella,Crawford,GA
+30145,8807,Kingston,Bartow,GA
+30662,8779,Royston,Franklin,GA
+30633,8776,Danielsville,Madison,GA
+30290,8706,Tyrone,Fayette,GA
+30752,8638,Trenton,Dade,GA
+31087,8608,Sparta,Hancock,GA
+30740,8584,Rocky Face,Whitfield,GA
+31546,8555,Jesup,Wayne,GA
+30108,8494,Bowdon,Carroll,GA
+30554,8486,Lula,Hall,GA
+31643,8442,Quitman,Brooks,GA
+31315,8387,Fort Stewart,Liberty,GA
+30442,8239,Millen,Jenkins,GA
+31308,8111,Ellabell,Bryan,GA
+31331,8079,Townsend,Mcintosh,GA
+30553,8041,Lavonia,Franklin,GA
+31055,8005,Mc Rae,Telfair,GA
+31201,7937,Macon,Bibb,GA
+31730,7836,Camilla,Mitchell,GA
+31554,7803,Nicholls,Coffee,GA
+30817,7775,Lincolnton,Lincoln,GA
+30566,7741,Oakwood,Hall,GA
+31320,7627,Midway,Liberty,GA
+31771,7626,Norman Park,Colquitt,GA
+30535,7607,Demorest,Habersham,GA
+30546,7596,Hiawassee,Towns,GA
+30905,7594,Augusta,Richmond,GA
+31321,7576,Pembroke,Bryan,GA
+31096,7552,Wrightsville,Johnson,GA
+31302,7540,Bloomingdale,Chatham,GA
+30525,7515,Clayton,Rabun,GA
+30530,7475,Commerce,Jackson,GA
+30742,7374,Fort Oglethorpe,Catoosa,GA
+30710,7297,Cohutta,Whitfield,GA
+31031,7251,Gordon,Wilkinson,GA
+30628,7241,Colbert,Madison,GA
+30176,7221,Tallapoosa,Haralson,GA
+30683,7192,Winterville,Clarke,GA
+30187,7123,Winston,Douglas,GA
+30753,7016,Trion,Chattooga,GA
+31635,6961,Lakeland,Lanier,GA
+30646,6893,Hull,Madison,GA
+31833,6883,West Point,Troup,GA
+30303,6840,Atlanta,Fulton,GA
+30739,6773,Rock Spring,Walker,GA
+30183,6772,Waleska,Cherokee,GA
+30673,6726,Washington,Wilkes,GA
+31028,6673,Centerville,Houston,GA
+30326,6643,Atlanta,Fulton,GA
+30735,6631,Resaca,Gordon,GA
+30184,6535,White,Bartow,GA
+31774,6452,Ocilla,Irwin,GA
+31092,6423,Vienna,Dooly,GA
+30563,6274,Mount Airy,Habersham,GA
+30415,6272,Brooklet,Bulloch,GA
+30802,6243,Appling,Columbia,GA
+30220,6216,Grantville,Coweta,GA
+31811,6204,Hamilton,Harris,GA
+31822,6166,Pine Mountain,Harris,GA
+30113,6152,Buchanan,Haralson,GA
+31804,6151,Cataula,Harris,GA
+31901,6150,Columbus,Muscogee,GA
+31305,6039,Darien,Mcintosh,GA
+30543,5939,Gillsville,Hall,GA
+30002,5902,Avondale Estates,Dekalb,GA
+30147,5901,Lindale,Floyd,GA
+31569,5814,Woodbine,Camden,GA
+30621,5794,Bishop,Oconee,GA
+30457,5697,Soperton,Treutlen,GA
+30173,5679,Silver Creek,Floyd,GA
+31714,5644,Ashburn,Turner,GA
+30292,5631,Williamson,Pike,GA
+30104,5552,Aragon,Polk,GA
+30175,5526,Talking Rock,Pickens,GA
+31816,5510,Manchester,Meriwether,GA
+30520,5418,Canon,Franklin,GA
+31803,5367,Buena Vista,Marion,GA
+30558,5240,Maysville,Banks,GA
+30411,5205,Alamo,Wheeler,GA
+31634,5179,Homerville,Clinch,GA
+31806,5135,Ellaville,Schley,GA
+30557,5112,Martin,Stephens,GA
+30434,5017,Louisville,Jefferson,GA
+30346,5008,Atlanta,Dekalb,GA
+31063,4954,Montezuma,Macon,GA
+31068,4950,Oglethorpe,Macon,GA
+31645,4904,Ray City,Berrien,GA
+30629,4817,Comer,Madison,GA
+30559,4751,Mineral Bluff,Fannin,GA
+30295,4750,Zebulon,Pike,GA
+30565,4731,Nicholson,Jackson,GA
+30725,4731,Flintstone,Walker,GA
+30582,4706,Young Harris,Towns,GA
+30521,4683,Carnesville,Franklin,GA
+31642,4676,Pearson,Atkinson,GA
+31566,4638,Waynesville,Brantley,GA
+30185,4578,Whitesburg,Carroll,GA
+30808,4561,Dearing,Mcduffie,GA
+31543,4549,Hortense,Brantley,GA
+30560,4544,Morganton,Fannin,GA
+31006,4523,Butler,Taylor,GA
+31553,4520,Nahunta,Brantley,GA
+30471,4490,Twin City,Emanuel,GA
+31091,4347,Unadilla,Dooly,GA
+31001,4323,Abbeville,Wilcox,GA
+31773,4245,Ochlocknee,Thomas,GA
+30750,4148,Lookout Mountain,Walker,GA
+30139,4147,Fairmount,Gordon,GA
+30222,4101,Greenville,Meriwether,GA
+30571,4069,Sautee Nacoochee,White,GA
+30257,4024,Milner,Lamar,GA
+31089,4021,Tennille,Washington,GA
+31650,3999,Willacoochee,Atkinson,GA
+31815,3949,Lumpkin,Stewart,GA
+30828,3927,Warrenton,Warren,GA
+31301,3906,Allenhurst,Liberty,GA
+30833,3888,Wrens,Jefferson,GA
+30079,3846,Scottdale,Dekalb,GA
+30511,3831,Baldwin,Banks,GA
+31098,3809,Warner Robins,Houston,GA
+30445,3797,Mount Vernon,Montgomery,GA
+30055,3788,Mansfield,Jasper,GA
+30206,3763,Concord,Pike,GA
+30711,3757,Crandall,Murray,GA
+30527,3701,Clermont,Hall,GA
+30564,3696,Murrayville,Hall,GA
+31046,3694,Juliette,Monroe,GA
+30259,3674,Moreland,Coweta,GA
+31037,3584,Helena,Telfair,GA
+31647,3571,Sparks,Cook,GA
+30567,3565,Pendergrass,Jackson,GA
+30738,3509,Rising Fawn,Dade,GA
+30663,3463,Rutledge,Morgan,GA
+31519,3462,Broxton,Coffee,GA
+31328,3419,Tybee Island,Chatham,GA
+30734,3418,Ranger,Gordon,GA
+31557,3316,Patterson,Pierce,GA
+31626,3274,Boston,Thomas,GA
+31002,3267,Adrian,Emanuel,GA
+30547,3266,Homer,Banks,GA
+31078,3203,Roberta,Crawford,GA
+31606,3196,Valdosta,Lowndes,GA
+30182,3178,Waco,Haralson,GA
+30258,3165,Molena,Pike,GA
+30332,3162,Atlanta,Fulton,GA
+30205,3147,Brooks,Fayette,GA
+30602,3127,Athens,Clarke,GA
+31775,3121,Omega,Tift,GA
+30576,3104,Tiger,Rabun,GA
+31801,3068,Box Springs,Talbot,GA
+30124,3048,Cave Spring,Floyd,GA
+30648,3028,Lexington,Oglethorpe,GA
+30178,3024,Taylorsville,Bartow,GA
+30624,3016,Bowman,Elbert,GA
+31044,2986,Jeffersonville,Twiggs,GA
+30170,2986,Roopville,Carroll,GA
+30669,2959,Union Point,Greene,GA
+31831,2951,Waverly Hall,Harris,GA
+30421,2945,Collins,Tattnall,GA
+31018,2906,Davisboro,Washington,GA
+30171,2893,Rydal,Bartow,GA
+31076,2867,Reynolds,Taylor,GA
+31075,2834,Rentz,Laurens,GA
+30256,2819,Meansville,Pike,GA
+31716,2817,Baconton,Mitchell,GA
+31560,2806,Screven,Wayne,GA
+30428,2804,Glenwood,Wheeler,GA
+30538,2799,Eastanollee,Stephens,GA
+31805,2790,Cusseta,Chattahoochee,GA
+30477,2779,Wadley,Jefferson,GA
+31749,2764,Enigma,Berrien,GA
+31744,2763,Doerun,Colquitt,GA
+31637,2726,Lenox,Cook,GA
+31079,2705,Rochelle,Wilcox,GA
+31012,2703,Chester,Dodge,GA
+30731,2655,Menlo,Chattooga,GA
+31542,2645,Hoboken,Brantley,GA
+30516,2634,Bowersville,Hart,GA
+31019,2622,Dexter,Laurens,GA
+31549,2590,Lumber City,Telfair,GA
+30625,2582,Buckhead,Morgan,GA
+31765,2577,Meigs,Thomas,GA
+30056,2518,Newborn,Newton,GA
+30473,2504,Uvalda,Montgomery,GA
+30627,2490,Carlton,Madison,GA
+31807,2489,Ellerslie,Harris,GA
+30293,2482,Woodbury,Meriwether,GA
+31825,2471,Richland,Stewart,GA
+30555,2443,Mc Caysville,Fannin,GA
+31555,2428,Odum,Wayne,GA
+30630,2407,Crawford,Oglethorpe,GA
+30805,2397,Blythe,Richmond,GA
+30609,2394,Athens,Clarke,GA
+31830,2354,Warm Springs,Meriwether,GA
+31303,2348,Clyo,Effingham,GA
+30322,2308,Atlanta,Dekalb,GA
+31033,2287,Haddock,Jones,GA
+31778,2262,Pavo,Thomas,GA
+31565,2236,Waverly,Camden,GA
+31738,2232,Coolidge,Thomas,GA
+31790,2181,Sycamore,Turner,GA
+30733,2171,Plainville,Gordon,GA
+31827,2152,Talbotton,Talbot,GA
+30634,2148,Dewy Rose,Elbert,GA
+30456,2146,Sardis,Burke,GA
+30218,2134,Gay,Meriwether,GA
+30757,2131,Wildwood,Dade,GA
+30118,2118,Carrollton,Carroll,GA
+30216,2112,Flovilla,Butts,GA
+30810,2096,Gibson,Glascock,GA
+31781,2084,Poulan,Worth,GA
+31826,2065,Shiloh,Harris,GA
+30137,2060,Emerson,Bartow,GA
+31060,2056,Milan,Telfair,GA
+31057,2048,Marshallville,Macon,GA
+31622,2021,Alapaha,Berrien,GA
+30816,2018,Keysville,Burke,GA
+31780,1990,Plains,Sumter,GA
+30149,1966,Mount Berry,Floyd,GA
+30105,1947,Armuchee,Floyd,GA
+30730,1902,Lyerly,Chattooga,GA
+30450,1882,Portal,Bulloch,GA
+30251,1882,Luthersville,Meriwether,GA
+30641,1859,Good Hope,Walton,GA
+31764,1844,Leslie,Sumter,GA
+30668,1836,Tignall,Wilkes,GA
+31016,1832,Culloden,Monroe,GA
+30410,1821,Ailey,Montgomery,GA
+31795,1808,Ty Ty,Tift,GA
+31641,1805,Naylor,Lowndes,GA
+30441,1803,Midville,Burke,GA
+31058,1798,Mauk,Taylor,GA
+31049,1769,Kite,Johnson,GA
+30177,1759,Tate,Pickens,GA
+31077,1723,Rhine,Dodge,GA
+31512,1681,Ambrose,Coffee,GA
+31097,1681,Yatesville,Upson,GA
+30552,1640,Lakemont,Rabun,GA
+31022,1630,Dudley,Laurens,GA
+31070,1590,Pinehurst,Dooly,GA
+30631,1585,Crawfordville,Taliaferro,GA
+31017,1579,Danville,Twiggs,GA
+31638,1573,Morven,Brooks,GA
+30413,1547,Bartow,Jefferson,GA
+30619,1543,Arnoldsville,Oglethorpe,GA
+30537,1539,Dillard,Rabun,GA
+30568,1531,Rabun Gap,Rabun,GA
+30660,1515,Rayle,Wilkes,GA
+30575,1512,Talmo,Jackson,GA
+31824,1507,Preston,Webster,GA
+30234,1480,Jenkinsburg,Butts,GA
+30452,1477,Register,Bulloch,GA
+30446,1466,Newington,Screven,GA
+31796,1462,Warwick,Worth,GA
+31042,1445,Irwinton,Wilkinson,GA
+31733,1435,Chula,Tift,GA
+30522,1430,Cherrylog,Gilmer,GA
+31787,1418,Smithville,Lee,GA
+30678,1390,White Plains,Greene,GA
+31020,1382,Dry Branch,Twiggs,GA
+31314,1378,Fort Stewart,Liberty,GA
+30823,1349,Stapleton,Jefferson,GA
+31625,1335,Barney,Brooks,GA
+31624,1329,Axson,Atkinson,GA
+30541,1326,Epworth,Fannin,GA
+30425,1316,Garfield,Emanuel,GA
+31009,1312,Cadwell,Laurens,GA
+31025,1312,Elko,Houston,GA
+31323,1295,Riceboro,Liberty,GA
+31054,1294,Mc Intyre,Wilkinson,GA
+30420,1278,Cobbtown,Tattnall,GA
+31307,1275,Eden,Effingham,GA
+31066,1257,Musella,Crawford,GA
+31090,1256,Toomsboro,Wilkinson,GA
+31829,1251,Upatoi,Muscogee,GA
+31547,1219,Kings Bay,Camden,GA
+31065,1210,Montrose,Laurens,GA
+31783,1208,Rebecca,Turner,GA
+31563,1183,Surrency,Appling,GA
+31649,1166,Stockton,Lanier,GA
+31035,1130,Harrison,Washington,GA
+31527,1116,Jekyll Island,Glynn,GA
+30562,1113,Mountain City,Rabun,GA
+31712,1109,Arabi,Crisp,GA
+31207,1074,Macon,Bibb,GA
+31629,1070,Dixie,Brooks,GA
+30820,1068,Mitchell,Glascock,GA
+31518,1064,Bristol,Pierce,GA
+31072,1060,Pitts,Wilcox,GA
+31756,1048,Hartsfield,Colquitt,GA
+30803,1039,Avera,Jefferson,GA
+31071,1035,Pineview,Wilcox,GA
+31085,1035,Shady Dale,Jasper,GA
+31836,993,Woodland,Talbot,GA
+31789,968,Sumner,Worth,GA
+31552,965,Millwood,Ware,GA
+30545,949,Helen,White,GA
+31007,941,Byromville,Dooly,GA
+31567,921,West Green,Coffee,GA
+31784,892,Sale City,Mitchell,GA
+31041,888,Ideal,Macon,GA
+31551,884,Mershon,Pierce,GA
+30336,876,Atlanta,Fulton,GA
+31409,873,Savannah,Chatham,GA
+31050,868,Knoxville,Crawford,GA
+30667,851,Stephens,Oglethorpe,GA
+30572,844,Suches,Union,GA
+31094,844,Warthen,Washington,GA
+30426,831,Girard,Burke,GA
+30821,825,Norwood,Warren,GA
+31038,819,Hillsboro,Jasper,GA
+31648,816,Statenville,Echols,GA
+31798,812,Wray,Irwin,GA
+30072,806,Pine Lake,Dekalb,GA
+31698,770,Valdosta,Lowndes,GA
+31550,762,Manor,Ware,GA
+30746,762,Sugar Valley,Gordon,GA
+31011,753,Chauncey,Dodge,GA
+31711,751,Andersonville,Sumter,GA
+31699,696,Valdosta,Lowndes,GA
+31823,690,Pine Mountain Valley,Harris,GA
+31812,682,Junction City,Talbot,GA
+30285,682,The Rock,Upson,GA
+30454,670,Rockledge,Laurens,GA
+30250,667,Lovejoy,Clayton,GA
+31630,656,Du Pont,Clinch,GA
+30148,637,Marble Hill,Pickens,GA
+30903,620,Augusta,Richmond,GA
+31309,614,Fleming,Liberty,GA
+30455,603,Rocky Ford,Screven,GA
+31544,597,Jacksonville,Telfair,GA
+31735,581,Cobb,Sumter,GA
+31532,568,Denton,Jeff Davis,GA
+31568,529,White Oak,Camden,GA
+31772,522,Oakfield,Worth,GA
+31631,493,Fargo,Clinch,GA
+31722,492,Berlin,Colquitt,GA
+31062,475,Milledgeville,Baldwin,GA
+30818,468,Matthews,Jefferson,GA
+30070,444,Porterdale,Newton,GA
+30822,434,Perkins,Jenkins,GA
+31083,433,Scotland,Telfair,GA
+30812,403,Gracewood,Richmond,GA
+31623,380,Argyle,Clinch,GA
+31318,369,Meldrim,Effingham,GA
+30423,350,Daisy,Evans,GA
+31743,326,De Soto,Sumter,GA
+30470,305,Tarrytown,Montgomery,GA
+31720,285,Barwick,Brooks,GA
+31067,266,Oconee,Washington,GA
+31627,229,Cecil,Cook,GA
+31821,227,Omaha,Stewart,GA
+31832,222,Weston,Webster,GA
+30573,218,Tallulah Falls,Rabun,GA
+31051,209,Lilly,Dooly,GA
+31810,206,Geneva,Talbot,GA
