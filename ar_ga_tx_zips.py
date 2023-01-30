@@ -1,28 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### SENSUS API for zipcode: https://api.census.gov/data/2020/acs/acs5?get=NAME,group(B19013)&for=zip%20code%20tabulation%20area:*
-# 
-# ### how to zip: https://www2.census.gov/data/api-documentation/how-to-download-all-zip-code-tabulation-areas-from-the-census-api.pdf
-# 
-# ### https://api.census.gov/data/2020/
-# 
-# ### https://www.census.gov/data/developers/data-sets/popest-popproj/popest.html
-# 
-# ### how to get pop data with census api: https://api.census.gov/data/2021/pep/population?get=DENSITY_2021,POP_2021,NAME,STATE&for=region:*&key=YOUR_KEY
-# 
-# ### https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.2021.html#list-tab-6MPRXXDBDK2UUWTSHX
-# 
-# ### https://data.census.gov/table?g=0400000US48
-# 
-# ### https://gist.githubusercontent.com/erichurst/7882666/raw/5bdc46db47d9515269ab12ed6fb2850377fd869e/US%2520Zip%2520Codes%2520from%25202013%2520Government%2520Data
-# 
-
 # In[1]:
 
 
 import pandas as pd
-texas_zips=pd.read_csv('./texas_zips.csv')
+texas_zips=pd.read_csv('./data/texas_zips.csv')
 
 
 # In[2]:
@@ -52,7 +35,7 @@ texas_zips.head()
 # In[6]:
 
 
-arkansas_zips=pd.read_csv('./arkansas_zips.csv')
+arkansas_zips=pd.read_csv('./data/arkansas_zips.csv')
 
 
 # In[7]:
@@ -82,7 +65,7 @@ arkansas_zips.head()
 # In[11]:
 
 
-georgia_zips=pd.read_csv('./georga_zips.csv')
+georgia_zips=pd.read_csv('./data/georga_zips.csv')
 
 
 # In[12]:
@@ -155,7 +138,7 @@ state_counts == ar_ga_tx.shape[0]
 # In[23]:
 
 
-all_zips_coords = pd.read_csv('./uszips.csv')
+all_zips_coords = pd.read_csv('./data/uszips.csv')
 
 
 # In[24]:
